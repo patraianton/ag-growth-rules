@@ -1,0 +1,16 @@
+id,claim,piece,status,facts_row,owner,due,where_in_text
+CL-01,"Every client you've quoted in Annuities Genius is already here.",email,SOURCED,F-09,,,kit.md:42
+CL-03,"Meet [Client Conversations]",email,PROPOSAL,,proposed: CTO (D-16); not accepted,,"kit.md:34, 53, 87, 131"
+CL-04,"[N minutes and N texts a month included, then $X a minute and $Y a text]",email,PROPOSAL,,proposed: founder (D-02); not accepted,,kit.md:51
+CL-07,"[From your own number], text any client.",email,PROPOSAL,F-01,proposed: CTO (D-09); not accepted,,kit.md:37
+CL-08,"[pick the emails and call notes that go with it]",email,PROPOSAL,,proposed: CTO (D-16); not accepted,,kit.md:40
+CL-09,"Pick a local number to call from - or [bring your office line over].",email,PROPOSAL,F-06,proposed: CTO (D-04); not accepted,,kit.md:44
+CL-10,"[Email and meetings come with every plan].",email,PROPOSAL,,proposed: founder (D-02); not accepted,,kit.md:51
+CL-11,"open any client → Case → [Client Conversations]",email,PROPOSAL,,proposed: CTO (D-16); not accepted,,kit.md:53
+CL-12,"[Build yours and next month is on us.]",webinar,PROPOSAL,,proposed: founder (D-13); not accepted,,kit.md:115
+CL-13,"[David Novak - why the conversation belongs on the case] (optional)",webinar,PROPOSAL,,proposed: founder (D-15); not accepted,,kit.md:121
+CL-14,"Plans, free trials, [attendee offer], next Wednesday's masterclass",webinar,PROPOSAL,,proposed: founder (D-13); not accepted,,kit.md:127
+CL-15,"Texting [from the agent's own number] switches on as each agent's number clears registration.",imo-note,PROPOSAL,F-01,proposed: CTO (D-09); not accepted,,kit.md:147
+CL-16,"[and the Team Activity dashboard shows which designed cases got one]",imo-note,PROPOSAL,,proposed: CTO (D-16); not accepted,,kit.md:151
+CL-17,"[You decide whether calling and texting are switched on for your agency's account, and who pays for them.]",imo-note,PROPOSAL,,proposed: founder (D-16); not accepted,,kit.md:152
+CL-18,"[We'll send it co-signed by [IMO name], or give you the copy to send under your own name.]",imo-note,PROPOSAL,,proposed: founder (D-14); not accepted,,kit.md:156

@@ -1,0 +1,3 @@
+id,claim,piece,status,facts_row,owner,due,where_in_text
+CL-01,"Every client you've quoted in Annuities Genius is already here.",email,SOURCED,F-09,,,kit.md:30
+CL-03,"Meet [Client Conversations]",email,PROPOSAL,,,,kit.md:22

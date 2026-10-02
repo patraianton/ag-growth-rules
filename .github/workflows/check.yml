@@ -1,0 +1,29 @@
+name: check
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Self-test
+        run: python tools/selftest.py
+
+      - name: Clean sample exits 0 against the shipped templates
+        run: >
+          python tools/check.py tools/fixtures/sample/clean.md
+          --claims tools/fixtures/sample/claims.csv
+
+      - name: v1 email exits 1 (git 662d63b, kit.md lines 11-42)
+        shell: bash
+        run: |
+          set +e
+          python tools/check.py tools/fixtures/sample/v1-email.md
+          test $? -eq 1

@@ -1,0 +1,18 @@
+# 2026-10-02 · judge items after wave 3 · kit.md sha256 0d2075eb440fe26e442ce034a7db0ddd67e23de3585bfd5f0ca2a7d5f6d2cec2
+# python tools/check.py $K/kit.md --html $K/index.html --claims templates/claims.csv --panel $K/panel --reviewed-sha256 0d2075eb440fe26e442ce034a7db0ddd67e23de3585bfd5f0ca2a7d5f6d2cec2
+
+
+check          result     findings  note
+landmines      pass              0  7 landmine(s), 48 cues; facts: 9 rows, 2 ABSENT, 2 overturned
+voice          pass              0  41 banned cues, 0 exceptions
+numbers        pass              0  26 records
+parity         pass              0  
+stray-labels   pass              0  10 labels
+repeats        pass              0  
+time-promises  pass              0  1 landmine(s), 3 cues
+plain          pass              0  no shape fired; grade how-made 6.6 (max 11), email 4.5 (max 9), social 3.9, webinar 5.2, imo-note 5.1 (max 9); 16 page tooltips read (F4, F5)
+claims         pass              0  15 rows
+mark-budget    pass              0  page: dotted spans; markdown: brackets of 4+ words
+killed-lines   pass              0  6 killed lines
+release-hash   pass              0  piece sha256 0d2075eb440fe26e442ce034a7db0ddd67e23de3585bfd5f0ca2a7d5f6d2cec2
+exit 0

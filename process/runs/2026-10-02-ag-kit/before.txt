@@ -1,0 +1,203 @@
+landmines | critical | $K/kit.md:38 | - [Texts go only to clients who've said yes, and a STOP reply ends texting to them automatically.] | compliance-promises/F1
+landmines | critical | $K/kit.md:39 | - [Call recording is off unless you turn it on.] | compliance-promises/F1
+landmines | critical | $K/kit.md:41 | - [Your clients and their conversations are never used for marketing or lead generation, and never sold.] | compliance-promises/F1
+landmines | critical | $K/kit.md:42 | - [Your clients, messages, and recordings export any time; nothing is held back if you leave.] | compliance-promises/F1
+landmines | critical | $K/kit.md:129 | ...our compliance team: texts go only to clients who've opted in, [from a number registered in the agent's own name]; a STOP reply ends texting on its own; [call r... | compliance-promises/F1
+landmines | critical | $K/kit.md:153 | / Price of calls and texts stated before you turn them on; export any time; a person picks up; "not another system to set up". | compliance-promises/F1
+landmines | critical | $K/kit.md:186 | - Clients and their conversations are never used for marketing or lead generation, and never sold. | compliance-promises/F1
+landmines | critical | $K/kit.md:187 | - Client conversations are never shared with carriers or other agencies. | compliance-promises/F1
+landmines | critical | $K/kit.md:188 | - The texting number is registered in the agent's own name. | compliance-promises/F1
+landmines | critical | $K/kit.md:189 | - Call recording follows the rule the agency sets. | compliance-promises/F1
+landmines | critical | $K/kit.md:190 | - Every message is kept on the case: retention period and export for audits. | compliance-promises/F1
+landmines | critical | $K/kit.md:192 | - Export: clients, messages, and recordings export any time, and nothing is held back if an agent leaves (47 of the 1,927 complaints in the study are about gett... | compliance-promises/F1
+landmines | major | $K/kit.md:148 | Calls don't ring or drop mid-call; buying or porting a number takes weeks; outbound shows "Spam Likely"; insurance agents must keep recordings for years. | compliance-promises/F3
+landmines | critical | $K/kit.md:129 | topic recording: email:39 'call recording is off unless you turn it on' vs imo-note:129 'call recording follows the rule your agency sets' vs how-made:189 'call recording follows the rule the agency sets' | compliance-promises/F2
+landmines | critical | $K/kit.md:129 | topic consent: email:38 'texts go only to clients who've said yes  and a stop reply e' vs imo-note:129 'texts go only to clients who've opted in  from a number regi' | compliance-promises/F2
+landmines | critical | $K/kit.md:153 | topic export: email:42 'your clients  messages  and recordings export any time' vs how-made:153 'export any time' | compliance-promises/F2
+landmines | critical | $K/kit.md:129 | topic data-use: email:41 'your clients and their conversations are never used for mark' vs imo-note:129 'client conversations are never shared with carriers or other' vs how-made:186 'clients and their conversations are never used for marketing' | compliance-promises/F2
+landmines | minor | $K/kit.md:157 | ...and "You stay in control" is their recurring phrase; their posts open "New in Annuities Genius:" and end on a link or a question; their GrantAI 2.0 launch was t... | numbers-and-sources/F6
+landmines | minor | $K/kit.md:102 | / 0:22 / Plans, [attendee offer], 14-day free trial, next Wednesday's masterclass / | pricing-plans/F2
+landmines | major | $K/kit.md:140 | ...research and writing agents I run, then put through four review rounds of six readers each (an annuity agent, an IMO owner, the hiring manager, AG's house voic... | process-claims/F3
+landmines | major | $K/kit.md:140 | ...ng agents I run, then put through four review rounds of six readers each (an annuity agent, an IMO owner, the hiring manager, AG's house voice, a design critic,... | process-claims/F5
+landmines | minor | $K/kit.md:140 | Built in one night, September 30 to October 1, by a crew of research and writing agents I run, then put through four review rounds of six readers each (an annui... | process-claims/F6
+landmines | major | $K/kit.md:24 | - **Email from the case.** Send the report and the follow-up from your own address. | product-claims/F1
+landmines | major | $K/kit.md:33 | Texting from your own number switches on after the registration every US business texting line needs - [we file it for you]. | product-claims/F1
+landmines | major | $K/kit.md:122 | ...d book meetings from the client's case, with texting from the agent's own number as each one clears registration.... | product-claims/F1
+landmines | major | $K/kit.md:142 | So the launch isn't "we built a CRM" - it's "the conversation stays on the case", and texting is "now for every client, from your own number". | product-claims/F1
+landmines | major | $K/kit.md:147 | ...CRM… if you can't get into their main inbox?" / Send from your own address.... | product-claims/F1
+landmines | major | $K/kit.md:149 | / Text any client from your own number. | product-claims/F1
+landmines | major | $K/kit.md:171 | - Replies land on the case: needs inbox sync; for Gmail that means Google's yearly security assessment, which takes several weeks. | product-claims/F1
+landmines | major | $K/index.html:178 | Whether history posts back to Redtail is answered live at 0:04, not promised in the email. | competitors-partners/F3
+landmines | critical | $K/index.html:159 | [Texts go only to clients who've said yes, and a STOP reply ends texting to them automatically.] | compliance-promises/F1
+landmines | critical | $K/index.html:160 | [Call recording is off unless you turn it on.] | compliance-promises/F1
+landmines | critical | $K/index.html:162 | [Your clients and their conversations are never used for marketing or lead generation, and never sold.] | compliance-promises/F1
+landmines | critical | $K/index.html:163 | [Your clients, messages, and recordings export any time; nothing is held back if you leave.] | compliance-promises/F1
+landmines | critical | $K/index.html:258 | ...our compliance team: texts go only to clients who've opted in, [from a number registered in the agent's own name]; a STOP reply ends texting on its own; [call r... | compliance-promises/F1
+landmines | critical | $K/index.html:278 | Price of calls and texts stated before you turn them on; export any time; a person picks up; "not another system to set up". | compliance-promises/F1
+landmines | critical | $K/index.html:328 | Clients and their conversations are never used for marketing or lead generation, and never sold. | compliance-promises/F1
+landmines | critical | $K/index.html:329 | Client conversations are never shared with carriers or other agencies. | compliance-promises/F1
+landmines | critical | $K/index.html:330 | The texting number is registered in the agent's own name. | compliance-promises/F1
+landmines | critical | $K/index.html:331 | Call recording follows the rule the agency sets. | compliance-promises/F1
+landmines | critical | $K/index.html:332 | Every message is kept on the case: retention period and export for audits. | compliance-promises/F1
+landmines | critical | $K/index.html:334 | Export: clients, messages, and recordings export any time, and nothing is held back if an agent leaves (47 of the 1,927 complaints in the study are about gettin... | compliance-promises/F1
+landmines | major | $K/index.html:273 | Calls don't ring or drop mid-call; buying or porting a number takes weeks; outbound shows "Spam Likely"; insurance agents must keep recordings for years. | compliance-promises/F3
+landmines | critical | $K/index.html:210 | topic recording: email:160 'call recording is off unless you turn it on' vs social:210 'the client in the recording is made up' vs imo-note:258 'call recording follows the rule your agency sets' vs how-made:331 'call recording follows the rule the agency sets' | compliance-promises/F2
+landmines | critical | $K/index.html:258 | topic consent: email:159 'texts go only to clients who've said yes  and a stop reply e' vs imo-note:258 'texts go only to clients who've opted in  from a number regi' | compliance-promises/F2
+landmines | critical | $K/index.html:278 | topic export: email:163 'your clients  messages  and recordings export any time' vs how-made:278 'export any time' | compliance-promises/F2
+landmines | critical | $K/index.html:258 | topic data-use: email:162 'your clients and their conversations are never used for mark' vs imo-note:258 'client conversations are never shared with carriers or other' vs how-made:328 'clients and their conversations are never used for marketing' | compliance-promises/F2
+landmines | minor | $K/index.html:282 | ...and "You stay in control" is their recurring phrase; their posts open "New in Annuities Genius:" and end on a link or a question; their GrantAI 2.0 launch was t... | numbers-and-sources/F6
+landmines | minor | $K/index.html:236 | 0:22Plans, [attendee offer], 14-day free trial, next Wednesday's masterclass | pricing-plans/F2
+landmines | major | $K/index.html:267 | ...research and writing agents I run, then put through four review rounds of six readers each (an annuity agent, an IMO owner, the hiring manager, AG's house voic... | process-claims/F3
+landmines | major | $K/index.html:267 | ...ng agents I run, then put through four review rounds of six readers each (an annuity agent, an IMO owner, the hiring manager, AG's house voice, a design critic,... | process-claims/F5
+landmines | minor | $K/index.html:267 | Built in one night, September 30 to October 1, by a crew of research and writing agents I run, then put through four review rounds of six readers each (an annui... | process-claims/F6
+landmines | major | $K/index.html:144 | Send the report and the follow-up from your own address. | product-claims/F1
+landmines | major | $K/index.html:154 | Texting from your own number switches on after the registration every US business texting line needs - [we file it for you]. | product-claims/F1
+landmines | major | $K/index.html:251 | ...d book meetings from the client's case, with texting from the agent's own number as each one clears registration.... | product-claims/F1
+landmines | major | $K/index.html:269 | So the launch isn't "we built a CRM" - it's "the conversation stays on the case", and texting is "now for every client, from your own number". | product-claims/F1
+landmines | major | $K/index.html:272 | Send from your own address. | product-claims/F1
+landmines | major | $K/index.html:274 | Text any client from your own number. | product-claims/F1
+landmines | major | $K/index.html:313 | Replies land on the case: needs inbox sync; for Gmail that means Google's yearly security assessment, which takes several weeks. | product-claims/F1
+time-promises | major | $K/kit.md:31 | Connect your email once - email and meetings work right away. | setup-timelines/F1
+time-promises | major | $K/kit.md:32 | Pick a local number and start calling right away - or [bring your office line over]. | setup-timelines/F1
+time-promises | major | $K/kit.md:180 | Calling on day one is the heaviest build in this kit. | setup-timelines/F1
+time-promises | major | $K/kit.md:70 | > Not another system to set up. | setup-timelines/F2
+time-promises | major | $K/kit.md:153 | / Price of calls and texts stated before you turn them on; export any time; a person picks up; "not another system to set up". | setup-timelines/F2
+time-promises | major | $K/kit.md:33 | Texting from your own number switches on after the registration every US business texting line needs - [we file it for you]. | setup-timelines/F3
+time-promises | major | $K/kit.md:149 | AG files the registration. | setup-timelines/F3
+time-promises | major | $K/kit.md:181 | A number per agent means an SMS provider and A2P 10DLC registration for each; AG files it, typical wait up to 5 business days per campaign. | setup-timelines/F3
+time-promises | major | $K/index.html:152 | Connect your email once - email and meetings work right away. | setup-timelines/F1
+time-promises | major | $K/index.html:153 | Pick a local number and start calling right away - or [bring your office line over]. | setup-timelines/F1
+time-promises | major | $K/index.html:173 | Current users recognize it instantly. | setup-timelines/F1
+time-promises | major | $K/index.html:322 | Calling on day one is the heaviest build in this kit. | setup-timelines/F1
+time-promises | major | $K/index.html:195 | Not another system to set up. | setup-timelines/F2
+time-promises | major | $K/index.html:278 | Price of calls and texts stated before you turn them on; export any time; a person picks up; "not another system to set up". | setup-timelines/F2
+time-promises | major | $K/index.html:154 | Texting from your own number switches on after the registration every US business texting line needs - [we file it for you]. | setup-timelines/F3
+time-promises | major | $K/index.html:274 | AG files the registration. | setup-timelines/F3
+time-promises | major | $K/index.html:323 | A number per agent means an SMS provider and A2P 10DLC registration for each; AG files it, typical wait up to 5 business days per campaign. | setup-timelines/F3
+voice | minor | $K/kit.md:5 | 'calls, texts, and meetings' in: Email, calls, texts, and meetings now live on the case - where the quote already does. | voice/VB1
+voice | minor | $K/kit.md:15 | 'calls, texts, and meetings' in: **Subject:** New in Annuities Genius: email, calls, texts, and meetings on the case | voice/VB1
+voice | minor | $K/kit.md:25 | 'Calls, texts, and meetings' in: - **Calls, texts, and meetings from the case.** Call from your computer. | voice/VB1
+voice | minor | $K/kit.md:27 | 'email, call, and text' in: ...reports, illustrations, the E-App - now shows every email, call, and text next to them, dated.... | voice/VB1
+voice | minor | $K/kit.md:42 | 'clients, messages, and recordings' in: - [Your clients, messages, and recordings export any time; nothing is held back if you leave.] | voice/VB1
+voice | minor | $K/kit.md:65 | 'call, text, and book' in: > New in Annuities Genius: [Client Conversations] 📨 Email, call, text, and book meetings right from the client's case. | voice/VB1
+voice | minor | $K/kit.md:67 | 'email, call, and text' in: > ✉️ Every email, call, and text saved on the case | voice/VB1
+voice | minor | $K/kit.md:122 | 'email, call, and book' in: From [date], agents on Annuities Genius can email, call, and book meetings from the client's case, with texting from the agent's own number as each one clears r... | voice/VB1
+voice | minor | $K/kit.md:142 | 'documents, notes, and the' in: The Client Profile is a case file: reports, illustrations, documents, notes, and the E-App already land there. | voice/VB1
+voice | minor | $K/kit.md:143 | 'reviews, posts, and feature' in: I read 3,803 public reviews, posts, and feature requests about it from eight source types and sorted 1,927 complaints by module (counts are close, not exact: tw... | voice/VB1
+voice | minor | $K/kit.md:153 | '309, billing and per' in: / **Across all six** / — / Support 309, billing and per-message fees 271, mobile app 216, learning curve 147, data lock-in 47. | voice/VB1
+voice | minor | $K/kit.md:192 | 'clients, messages, and recordings' in: - Export: clients, messages, and recordings export any time, and nothing is held back if an agent leaves (47 of the 1,927 complaints in the study are about gett... | voice/VB1
+voice | minor | $K/kit.md:198 | 'pricing, help and integration' in: ...ums.com CRM threads 2023–2026; Wealthbox and Redtail pricing, help and integration pages, T3 2026 survey; GoHighLevel pricing, Trustpilot and G2 reviews, Agent... | voice/VB1
+voice | minor | $K/kit.md:25 | 'not only' in: Text any client - not only website leads - [from your own number]. | voice/VB2
+voice | minor | $K/kit.md:125 | 'not only' in: ...our desk designs for what the client actually asked, not only the numbers.... | voice/VB2
+voice | minor | $K/kit.md:153 | '—' in: / **Across all six** / — / Support 309, billing and per-message fees 271, mobile app 216, learning curve 147, data lock-in 47. | voice/VB7
+numbers | major | $K/kit.md:59 | 20 not in numbers.json: Media: a 20-second screen recording of one invented client's timeline (Margaret, 67 · TX · $250k IRA rollover: Lead → Quote → Report emailed → Call · 12 min → E... | numbers-and-sources/F1
+numbers | major | $K/kit.md:59 | 67 not in numbers.json: ...cording of one invented client's timeline (Margaret, 67 · TX · $250k IRA rollover: Lead → Quote → Report emailed → Call · 12 min → E-App sent).... | numbers-and-sources/F1
+numbers | major | $K/kit.md:59 | $250k not in numbers.json: ...one invented client's timeline (Margaret, 67 · TX · $250k IRA rollover: Lead → Quote → Report emailed → Call · 12 min → E-App sent).... | numbers-and-sources/F1
+numbers | major | $K/kit.md:59 | 12 not in numbers.json: ...IRA rollover: Lead → Quote → Report emailed → Call · 12 min → E-App sent).... | numbers-and-sources/F1
+numbers | major | $K/kit.md:102 | 14 not in numbers.json: / 0:22 / Plans, [attendee offer], 14-day free trial, next Wednesday's masterclass / | numbers-and-sources/F1
+numbers | major | $K/kit.md:103 | 7 not in numbers.json: / 0:23 / Live Q&A (7 min): texting rules, your data and what happens if you leave, and your questions / | numbers-and-sources/F1
+numbers | major | $K/kit.md:107 | 0 not in numbers.json: ✓ A ready-to-use follow-up plan, Day 0 to Day 30 - from first call to signed E-App | numbers-and-sources/F1
+numbers | major | $K/kit.md:109 | 20 not in numbers.json: IMO admins and Case Design desks: a separate 20-minute walkthrough on [date] - the desk view. | numbers-and-sources/F1
+numbers | major | $K/kit.md:131 | 20 not in numbers.json: [We'll send it co-signed by [IMO name], or give you the copy to send under your own name.] Or book a 20-minute walkthrough for your desk: **[Book a time]** | numbers-and-sources/F1
+numbers | major | $K/kit.md:147 | 92 not in numbers.json: / 92 records. | numbers-and-sources/F1
+numbers | major | $K/kit.md:148 | 168 not in numbers.json: / 168. | numbers-and-sources/F1
+numbers | major | $K/kit.md:149 | 210 not in numbers.json: / 210. | numbers-and-sources/F1
+numbers | major | $K/kit.md:150 | 50 not in numbers.json: / 50. | numbers-and-sources/F1
+numbers | major | $K/kit.md:153 | 271 not in numbers.json: / **Across all six** / — / Support 309, billing and per-message fees 271, mobile app 216, learning curve 147, data lock-in 47. | numbers-and-sources/F1
+numbers | major | $K/kit.md:153 | 216 not in numbers.json: / **Across all six** / — / Support 309, billing and per-message fees 271, mobile app 216, learning curve 147, data lock-in 47. | numbers-and-sources/F1
+numbers | major | $K/kit.md:153 | 147 not in numbers.json: / **Across all six** / — / Support 309, billing and per-message fees 271, mobile app 216, learning curve 147, data lock-in 47. | numbers-and-sources/F1
+numbers | major | $K/kit.md:159 | 14 not in numbers.json: **How we'd know it worked.** The launch number: the share of new cases with a client message sent from AG within 14 days. | numbers-and-sources/F1
+numbers | major | $K/kit.md:159 | 0 not in numbers.json: ...becomes a client in our AG account and gets the Day 0 / 2 / 5 / 10 email-and-call follow-up from it; if webinar-to-trial doesn't move, the promise isn't ready.... | numbers-and-sources/F1
+numbers | major | $K/kit.md:159 | 2 not in numbers.json: ...omes a client in our AG account and gets the Day 0 / 2 / 5 / 10 email-and-call follow-up from it; if webinar-to-trial doesn't move, the promise isn't ready.... | numbers-and-sources/F1
+numbers | major | $K/kit.md:159 | 5 not in numbers.json: ...a client in our AG account and gets the Day 0 / 2 / 5 / 10 email-and-call follow-up from it; if webinar-to-trial doesn't move, the promise isn't ready.... | numbers-and-sources/F1
+numbers | major | $K/kit.md:159 | 10 not in numbers.json: ...lient in our AG account and gets the Day 0 / 2 / 5 / 10 email-and-call follow-up from it; if webinar-to-trial doesn't move, the promise isn't ready.... | numbers-and-sources/F1
+numbers | major | $K/kit.md:159 | 90 not in numbers.json: Money: 90-day seat retention of agents who send 3+ client messages from AG vs. agents on the same plan and tenure who don't. | numbers-and-sources/F1
+numbers | major | $K/kit.md:159 | 3+ not in numbers.json: Money: 90-day seat retention of agents who send 3+ client messages from AG vs. agents on the same plan and tenure who don't. | numbers-and-sources/F1
+numbers | major | $K/kit.md:181 | 5 not in numbers.json: A number per agent means an SMS provider and A2P 10DLC registration for each; AG files it, typical wait up to 5 business days per campaign. | numbers-and-sources/F1
+parity | minor | $K/kit.md:1 | # Annuities Genius CRM launch kit (test task) | parity/piece-only
+parity | minor | $K/kit.md:3 | Prepared by Anton Patrai for the Head of Growth process, October 2026. | parity/piece-only
+parity | minor | $K/kit.md:3 | Three pieces for the new CRM functionality: a launch email, a social post, a webinar agenda; a fourth, the note to IMO desks, goes out a week earlier; plus a sh | parity/piece-only
+parity | minor | $K/kit.md:3 | Rendered version: `index.html`. | parity/piece-only
+parity | minor | $K/kit.md:3 | Square brackets mark facts only the team can fill in; the full list is at the end. | parity/piece-only
+parity | minor | $K/kit.md:5 | **The message.** The case doesn't end when you hit Open in mail. | parity/piece-only
+parity | minor | $K/kit.md:13 | Solo agents on launch day; agents on an IMO's Enterprise account after their IMO has received the note in section 4. | parity/piece-only
+parity | minor | $K/kit.md:13 | Segment lines are marked. | parity/piece-only
+parity | minor | $K/kit.md:59 | Media: a 20-second screen recording of one invented client's timeline (Margaret, 67 · TX · $250k IRA rollover: Lead → Quote → Report emailed → Call · 12 min → E | parity/piece-only
+parity | minor | $K/kit.md:80 | Webinar agenda (registration page) | parity/piece-only
+parity | minor | $K/kit.md:96 | / 0:02 / [David Novak - why the conversation belongs on the case] (optional) / | parity/piece-only
+parity | minor | $K/kit.md:167 | **To confirm with the team.** Everything in square brackets above, in one place. | parity/piece-only
+parity | minor | $K/index.html:121 | Test task · Head of Growth · Anton Patrai · October 2026 | parity/page-only
+parity | minor | $K/index.html:124 | CRM launch kit: email, social post, webinar, and a note to IMO desks. | parity/page-only
+parity | minor | $K/index.html:125 | One message across all four, in AG's voice. | parity/page-only
+parity | minor | $K/index.html:125 | Dotted underline = a fact to confirm with the team; the full list is at the end of "How this was made". | parity/page-only
+parity | minor | $K/index.html:135 | To agent seats, in AG's announcement order: the pain, what's new, where to find it, one call to action. | parity/page-only
+parity | minor | $K/index.html:137 | From: Annuities Genius TeamSubject: New in Annuities Genius: email, calls, texts, and meetings on the casePreview: Stop rebuilding the story before every callba | parity/page-only
+parity | minor | $K/index.html:172 | Why it reads this way | parity/page-only
+parity | minor | $K/index.html:173 | Hook = AG's own "Open in mail" momentThat's where the GrantAI 2.0 demo hands off to the inbox. | parity/page-only
+parity | minor | $K/index.html:173 | Current users recognize it instantly. | parity/page-only
+parity | minor | $K/index.html:174 | No competitor namedThe copy sells the one thing no outside tool can have: the quote and the case are already here. | parity/page-only
+parity | minor | $K/index.html:175 | Segmented sendSolo agents get the short version. | parity/page-only
+parity | minor | $K/index.html:175 | The Case Design line goes only to agents on an IMO's Enterprise account, after their IMO has heard. | parity/page-only
+parity | minor | $K/index.html:176 | Desk line = send, not watchRequest Case Design already exists; the agent picks what goes with the case. | parity/page-only
+parity | minor | $K/index.html:177 | Honest about setupCalling starts with a new local number; moving an existing one takes days. | parity/page-only
+parity | minor | $K/index.html:177 | Texting waits for the one-time registration (A2P 10DLC: Twilio quotes up to 5 business days per campaign, longer after a rejection). | parity/page-only
+parity | minor | $K/index.html:177 | Pulling Gmail replies back needs Google's yearly security assessment, which takes several weeks. | parity/page-only
+parity | minor | $K/index.html:178 | Redtail / Wealthbox: keep themToday's import is one-way, so "keep them" is what the product can honestly support. | parity/page-only
+parity | minor | $K/index.html:178 | Whether history posts back to Redtail is answered live at 0:04, not promised in the email. | parity/page-only
+parity | minor | $K/index.html:186 | For prospects as well as users: a pain every agent shares, in AG's LinkedIn format. | parity/page-only
+parity | minor | $K/index.html:206 | ▶ 0:20 · screen recording of one client's timeline | parity/page-only
+parity | minor | $K/index.html:210 | House format"New in Annuities Genius:", emoji bullets, "No … No … Just …", a closing question. | parity/page-only
+parity | minor | $K/index.html:210 | Pain above the fold (LinkedIn cuts after about three lines). | parity/page-only
+parity | minor | $K/index.html:210 | The client in the recording is made up. | parity/page-only
+parity | minor | $K/index.html:216 | AG's Wednesday masterclass slot: 30 minutes, live, no slides. | parity/page-only
+parity | minor | $K/index.html:309 | Everything dotted in the pieces above, in one place. | parity/page-only
+parity | minor | $K/index.html:344 | Dotted underline = to confirm with the team; the list is above. | parity/page-only
+stray-labels | major | $K/index.html:145 | 'number.' in: Text any client - not only website leads - from your own number. Send your booking link; the meeting and its reminder land on the case. | stray/label:number.
+stray-labels | major | $K/index.html:274 | 'number.' in: Chat with website leads only, from one shared number. | stray/label:number.
+stray-labels | major | $K/index.html:274 | 'number.' in: Text any client from your own number. AG files the registration. | stray/label:number.
+repeats | minor | $K/kit.md:84 | wednesday date 11 am pt 1 pm ct 2 pm et (first at line 46) | repeats/8-words
+repeats | minor | $K/kit.md:125 | desk designs for what the client actually asked (first at line 28) | repeats/8-words
+repeats | minor | $K/kit.md:143 | html https patraianton github io annuities genius crm launch kit (first at line 142) | repeats/8-words
+repeats | minor | $K/kit.md:150 | send your booking link the meeting and its reminder land on the case (first at line 25) | repeats/8-words
+repeats | minor | $K/kit.md:156 | the agent who pays for their own seat the agent who came through an imo (first at line 7) | repeats/8-words
+repeats | minor | $K/kit.md:167 | feature names and flows are my proposal for release one (first at line 3) | repeats/8-words
+repeats | minor | $K/kit.md:182 | in 2023 2025 in platform texting sat on (first at line 162) | repeats/8-words
+repeats | minor | $K/kit.md:182 | only and client management left starter in june 2026 (first at line 162) | repeats/8-words
+repeats | minor | $K/kit.md:183 | build yours and next month is on us (first at line 90) | repeats/8-words
+repeats | minor | $K/kit.md:186 | clients and their conversations are never used for marketing or lead generation and never sold (first at line 41) | repeats/8-words
+repeats | minor | $K/kit.md:187 | client conversations are never shared with carriers or other agencies (first at line 129) | repeats/8-words
+repeats | minor | $K/kit.md:189 | agency sets every message is kept on the case (first at line 129) | repeats/8-words
+claims | minor | templates/claims.csv:6 | owner 'proposed: CTO', not accepted: [replies land next to it] | claims/TO-CONFIRM-owner-proposed
+claims | minor | templates/claims.csv:6 | [replies land next to it] | claims/TO-CONFIRM-no-date
+claims | minor | templates/claims.csv:7 | owner 'proposed: founder', not accepted: [Your clients and their conversations are never used for marketing or lead generation, and never sold.] | claims/TO-CONFIRM-owner-proposed
+claims | minor | templates/claims.csv:7 | [Your clients and their conversations are never used for marketing or lead generation, and never sold.] | claims/TO-CONFIRM-no-date
+mark-budget | minor | $K/kit.md:38 | 14 TO-CONFIRM marks in this section (limit 7); mark 8: [Texts go only to clients who've said yes, and a STOP reply ends texting to them automatically.] | marks/over-limit
+mark-budget | minor | $K/index.html:154 | 16 TO-CONFIRM marks in this section (limit 7); mark 8: we file it for you | marks/over-limit
+killed-lines | major | $K/kit.md:70 | 'Not another system to set up' in: > Not another system to set up. | killed/K-01
+killed-lines | major | $K/kit.md:153 | 'not another system to set up' in: / Price of calls and texts stated before you turn them on; export any time; a person picks up; "not another system to set up". | killed/K-01
+killed-lines | major | $K/kit.md:42 | 'export any time' in: - [Your clients, messages, and recordings export any time; nothing is held back if you leave.] | killed/K-02
+killed-lines | major | $K/kit.md:153 | 'export any time' in: / Price of calls and texts stated before you turn them on; export any time; a person picks up; "not another system to set up". | killed/K-02
+killed-lines | major | $K/kit.md:192 | 'export any time' in: - Export: clients, messages, and recordings export any time, and nothing is held back if an agent leaves (47 of the 1,927 complaints in the study are about gett... | killed/K-02
+killed-lines | major | $K/kit.md:50 | 'a person picks up' in: Give us a call at 949-600-7707 - [a person picks up]. | killed/K-06
+killed-lines | major | $K/kit.md:153 | 'a person picks up' in: / Price of calls and texts stated before you turn them on; export any time; a person picks up; "not another system to set up". | killed/K-06
+killed-lines | major | $K/index.html:195 | 'Not another system to set up' in: Not another system to set up. | killed/K-01
+killed-lines | major | $K/index.html:278 | 'not another system to set up' in: Price of calls and texts stated before you turn them on; export any time; a person picks up; "not another system to set up". | killed/K-01
+killed-lines | major | $K/index.html:163 | 'export any time' in: Your clients, messages, and recordings export any time; nothing is held back if you leave. | killed/K-02
+killed-lines | major | $K/index.html:278 | 'export any time' in: Price of calls and texts stated before you turn them on; export any time; a person picks up; "not another system to set up". | killed/K-02
+killed-lines | major | $K/index.html:334 | 'export any time' in: Export: clients, messages, and recordings export any time, and nothing is held back if an agent leaves (47 of the 1,927 complaints in the study are about gettin... | killed/K-02
+killed-lines | major | $K/index.html:168 | 'a person picks up' in: Give us a call at 949-600-7707 - a person picks up. | killed/K-06
+killed-lines | major | $K/index.html:278 | 'a person picks up' in: Price of calls and texts stated before you turn them on; export any time; a person picks up; "not another system to set up". | killed/K-06
+
+check          result     findings  note
+landmines      fail             59  7 landmine(s), 48 cues; facts: 9 rows, 2 ABSENT, 3 overturned
+voice          fail             16  41 banned cues, 0 exceptions
+numbers        fail             24  16 records
+parity         fail             38  
+stray-labels   fail              3  10 labels
+repeats        fail             12  
+time-promises  fail             17  1 landmine(s), 3 cues
+claims         fail              4  6 rows
+mark-budget    fail              2  page: dotted spans; markdown: brackets of 4+ words
+killed-lines   fail             14  6 killed lines
+release-hash   not_run           0  not requested; piece sha256 719d5a855b6006c848df9a74143634d04309e2bb6b11976a3b913aa185773ca5
+exit 1

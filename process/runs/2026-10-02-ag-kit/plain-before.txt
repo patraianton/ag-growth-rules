@@ -1,0 +1,59 @@
+# 2026-10-02 11:30 · kit.md sha256 2379ba699422ed2caa40665078dbe65e123b61810a6ee5118b23e5bf6e6d4010
+# python tools/check.py $K/kit.md --html $K/index.html --claims templates/claims.csv --panel $K/panel --reviewed-sha256 2379ba699422ed2caa40665078dbe65e123b61810a6ee5118b23e5bf6e6d4010
+
+
+check          result     findings  note
+landmines      pass              0  7 landmine(s), 48 cues; facts: 9 rows, 2 ABSENT, 2 overturned
+voice          pass              0  41 banned cues, 0 exceptions
+numbers        pass              0  26 records
+parity         pass              0  
+stray-labels   pass              0  10 labels
+repeats        pass              0  
+time-promises  pass              0  1 landmine(s), 3 cues
+plain          pass              0  no shape fired; grade how-made 6.7 (max 11), email 4.2 (max 9), social 4, webinar 5, imo-note 4.9 (max 9)
+claims         pass              0  15 rows
+mark-budget    pass              0  page: dotted spans; markdown: brackets of 4+ words
+killed-lines   pass              0  6 killed lines
+release-hash   pass              0  piece sha256 2379ba699422ed2caa40665078dbe65e123b61810a6ee5118b23e5bf6e6d4010
+exit 0
+
+# For comparison: the same checker on kit.md@048e9d8 (the last committed version, before the plain pass),
+# markdown only: python tools/check.py kit-048e9d8.md --claims templates/claims.csv
+
+landmines | major | kit-048e9d8.md:14 | Four review rounds ran on the night of September 30, each by six simulated reader roles from one model family; the text changed after them, and the checker (ste... | process-claims/F3
+plain | major | kit-048e9d8.md:35 | semicolon, 4 sentences after the label: Calls, texts, meetings: all from the case. Call from your computer. Text any client [from your own number] - until now, texting was for website leads only. Send your booking link;  | plain-language/F2
+plain | major | kit-048e9d8.md:35 | 'until now' in: Text any client [from your own number] - until now, texting was for website leads only. | plain-language/F7
+plain | major | kit-048e9d8.md:36 | 26 words: GrantAI drafts each follow-up from the illustration you sent and your call notes, and it waits on the case for you to edit, send, or skip. | plain-language/F1
+plain | major | kit-048e9d8.md:37 | 21 words: The timeline you already have - reports, illustrations, the E-App - now shows every email, every call, every text next to them, dated. | plain-language/F1
+plain | major | kit-048e9d8.md:38 | 30 words: Click Request Case Design as you do today and [pick the emails and call notes that go with it] - [IMO name]'s desk designs for what the client actually asked. | plain-language/F1
+plain | major | kit-048e9d8.md:63 | title 'Hook = AG's own x moment.' matches = | plain-language/F5
+plain | major | kit-048e9d8.md:66 | semicolon: Desk line = send, not watch. Request Case Design already exists; attaching the conversation to it is the new part. | plain-language/F2
+plain | major | kit-048e9d8.md:66 | title 'Desk line = send, not watch.' matches = / (?i)(?:^/[=:]\s*)(?:\w+\s+)?\w+,\s+not\s+\w+ / (?i)(?<!office )(?<!phone )(?<!texting )\bline\b | plain-language/F5
+plain | major | kit-048e9d8.md:67 | semicolon: Honest about setup. Calling starts with a new local number; the time to move an existing one is to confirm. Texting waits for the one-time registration (A2P 10DLC: Twilio quotes up to 5 business days per campa | plain-language/F2
+plain | minor | kit-048e9d8.md:104 | heading uses E-App with no plain words: Watch Us Take a Client from Lead to E-App - Without Leaving Annuities Genius (Live Demo) | plain-language/F4
+plain | major | kit-048e9d8.md:111 | 21 words: Bring your toughest case - age, state, amount, goal, no names - and we'll build it live from the chat, on the clock. | plain-language/F1
+plain | major | kit-048e9d8.md:118 | 24 words: x : what stays in Redtail or Wealthbox, and what lives on the case; what it costs; the number clients see; calls from your cell | plain-language/F1
+plain | major | kit-048e9d8.md:118 | semicolon: x : what stays in Redtail or Wealthbox, and what lives on the case; what it costs; the number clients see; calls from your cell | plain-language/F2
+plain | minor | kit-048e9d8.md:139 | heading uses Case Design with no plain words: New for your Case Design desk: what the client said, sent with the case | plain-language/F4
+plain | major | kit-048e9d8.md:143 | 30 words: From [date], agents on Annuities Genius can email and call clients and book meetings from the client's case, with texting [from the agent's own number] as each one clears registration. | plain-language/F1
+plain | major | kit-048e9d8.md:146 | 28 words: A Case Design request can now arrive with the client's emails, call notes, and questions attached, so your desk sees what the client asked next to the numbers. | plain-language/F1
+plain | major | kit-048e9d8.md:146 | 'so your' in: A Case Design request can now arrive with the client's emails, call notes, and questions attached, so your desk sees what the client asked next to the numbers. | plain-language/F7
+plain | major | kit-048e9d8.md:150 | 25 words: For your compliance team: we'd like to walk through texting consent, opt-outs, call recording and message retention with you before your agents' email goes out. | plain-language/F1
+plain | minor | kit-048e9d8.md:150 | 'opt-outs' not explained: For your compliance team: we'd like to walk through texting consent, opt-outs, call recording and message retention with you before your agents' email goes out. | plain-language/F4
+plain | minor | kit-048e9d8.md:35 | '(prep) the case' 3 times in: Calls, texts, meetings: all from the case. Call from your computer. Text any client [from your own number] - until now, texting was for website leads only. Send your booking link; the meetin | plain-language/F3
+plain | major | kit-048e9d8.md:7 | how-made grade 11.2 (max 11): 196 words, 8 sentences | plain-language/F6
+
+check          result     findings  note
+landmines      fail              1  7 landmine(s), 48 cues; facts: 9 rows, 2 ABSENT, 2 overturned
+voice          pass              0  41 banned cues, 0 exceptions
+numbers        pass              0  26 records
+parity         not_run           0  not requested (--html not given)
+stray-labels   pass              0  10 labels; label search needs the rendered page (--html)
+repeats        pass              0  
+time-promises  pass              0  1 landmine(s), 3 cues
+plain          fail             21  F1 8, F2 4, F3 1, F4 3, F5 2, F6 1, F7 2; grade how-made 11.2 (max 11), email 5 (max 9), social 4, webinar 5, imo-note 5.6 (max 9)
+claims         pass              0  15 rows
+mark-budget    pass              0  markdown: brackets of 4+ words (dotted spans are counted with --html)
+killed-lines   pass              0  6 killed lines
+release-hash   not_run           0  not requested; piece sha256 f7a2cfd418f369e7a295eab4175ebe48a4956b57af8fdb9bc15c0267514d3fe2
+exit 1

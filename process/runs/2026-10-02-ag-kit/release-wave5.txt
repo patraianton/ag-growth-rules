@@ -1,0 +1,14 @@
+
+check          result     findings  note
+landmines      pass              0  7 landmine(s), 48 cues; facts: 9 rows, 2 ABSENT, 2 overturned; 8 stamps appended to kit.md.stamps.jsonl
+voice          pass              0  41 banned cues, 0 exceptions
+numbers        pass              0  26 records
+parity         pass              0  
+stray-labels   pass              0  10 labels
+repeats        pass              0  
+time-promises  pass              0  1 landmine(s), 3 cues
+claims         pass              0  15 rows
+mark-budget    pass              0  page: dotted spans; markdown: brackets of 4+ words
+killed-lines   pass              0  6 killed lines
+release-hash   pass              0  piece sha256 f7a2cfd418f369e7a295eab4175ebe48a4956b57af8fdb9bc15c0267514d3fe2
+exit 0

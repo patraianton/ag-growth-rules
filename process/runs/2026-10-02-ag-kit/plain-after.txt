@@ -1,0 +1,27 @@
+# 2026-10-02 · wave 3 · kit.md sha256 227644d9c3f0a3711002bd4c0efd7f1073a1143e546b53d2917fd87e1a694d25
+# python tools/check.py $K/kit.md --html $K/index.html --claims templates/claims.csv --panel $K/panel --reviewed-sha256 227644d9c3f0a3711002bd4c0efd7f1073a1143e546b53d2917fd87e1a694d25
+
+
+check          result     findings  note
+landmines      pass              0  7 landmine(s), 48 cues; facts: 9 rows, 2 ABSENT, 2 overturned
+voice          pass              0  41 banned cues, 0 exceptions
+numbers        pass              0  26 records
+parity         pass              0  
+stray-labels   pass              0  10 labels
+repeats        pass              0  
+time-promises  pass              0  1 landmine(s), 3 cues
+plain          pass              0  no shape fired; grade how-made 6.6 (max 11), email 4.5 (max 9), social 3.9, webinar 5.2, imo-note 5.1 (max 9)
+claims         pass              0  15 rows
+mark-budget    pass              0  page: dotted spans; markdown: brackets of 4+ words
+killed-lines   pass              0  6 killed lines
+release-hash   pass              0  piece sha256 227644d9c3f0a3711002bd4c0efd7f1073a1143e546b53d2917fd87e1a694d25
+exit 0
+
+# plain findings per shape, the 11:00 version (kit.md@048e9d8, sha256 f7a2cfd4..., markdown only; plain-before.txt) -> wave 1 (2379ba69...) -> wave 2 (da2ba966...) -> released (wave 3)
+# F1 long sentence 8 -> 0 -> 0 -> 0 · F2 overloaded item 4 -> 0 -> 0 -> 0 · F3 repeated phrase 1 -> 0 -> 0 -> 0 · F4 term not explained 3 -> 0 -> 0 -> 0
+# F5 shorthand side-note title 2 -> 0 -> 0 -> 0 · F6 hard section 1 -> 0 -> 0 -> 0 · F7 history or reason in feature copy 2 -> 0 -> 0 -> 0 · total 21 -> 0 -> 0 -> 0
+# Flesch-Kincaid grade per section, 11:00 -> wave 1 -> wave 2 -> released: how-made 11.2 -> 6.7 -> 6.6 -> 6.6 (max 11), email 5 -> 4.2 -> 4.2 -> 4.5 (max 9), social 4 -> 4 -> 3.9 -> 3.9, webinar 5 -> 5 -> 5 -> 5.2, imo-note 5.6 -> 4.9 -> 5 -> 5.1 (max 9)
+# wave 2: the owner's agreed bullet put back word for word; it fired voice VB1 and stray-labels "number." (false positives), fixed in the rules (voice v3, stray-labels v2, fixtures mf-38, mn-24, mn-25; rules/CHANGELOG.md)
+# wave 3: 10 lines (plain-pass.md); the judge's wording fired F2 on side note 6 (four sentences) and F4 on 'FireLight' in row 0:17, both fixed in the kit, no rule changed
+# self-test: python tools/selftest.py -> exit 0 (196 fixtures, 0 failed); CI samples: clean.md exit 0, v1-email.md exit 1
+# wave 3 check: plain findings on this version before any fix 0 (F1-F7 all 0), after 0; no kit, template or rule change needed in the check
